@@ -9,10 +9,10 @@ const perguntas = [
         enunciado: "Tendo em vista que a medicina no Paraguai é um asunto muito comentado ultimamente no Brasi, diga-nos a sua opinião geral: você preferiria fazer medicina no Brasil ou no Paraguai?"
         alternativas: [
             {
-                texto: "No Paraguai"
+                texto: "Isso é assustador!",
             },
             {
-                texto: "No Brasil"
+                texto: "Isso é maravilhoso!",
             }
         ]
     },
