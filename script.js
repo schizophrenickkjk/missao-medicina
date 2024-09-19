@@ -6,14 +6,13 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Tendo em vista que a medicina no Paraguai é um asunto muito comentado ultimamente no Brasi, diga-nos a sua opinião geral: você preferiria fazer medicina no Brasil ou no Paraguai?"
+        enunciado: "Tendo em vista que a medicina no Paraguai é um asunto muito comentado ultimamente no Brasi, diga-nos a sua opinião geral: você preferiria fazer medicina no Brasil ou no Paraguai?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Isso é assustador!"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso é maravilhoso!"
             }
         ]
     },
